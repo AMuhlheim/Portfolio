@@ -7,6 +7,47 @@ categories: jekyll update
 
 Scroll down for a surprise.
 
-![alternate](/assets/img/image.jpg)
 
-![alternate](/assets/img/renatabliss.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![alternate](/assets/img/image.jpg)
