@@ -8,3 +8,5 @@ categories: jekyll update
 This is my first post.
 
 ![alternate](/assets/img/image.jpg)
+
+![alternate](/assets/img/renatabliss.gif)
